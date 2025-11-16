@@ -1,89 +1,46 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1000&pause=2000&center=true&vCenter=true&multiline=true&width=700&height=200&lines=Hello+their!;I+am+Ashan;Welcome+to+my+github+Profile" alt="Typing SVG" /></a>
+# Hi there 👋
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1000&pause=2000&center=true&vCenter=true&multiline=true&width=700&height=200&lines=Hello+there!;I+am+Ashan+Eranga;Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" /></p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-## My tech stack
+## My Tech Stack
 
 <p align="left"> 
-
-  <a> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
-  </a> 
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white" />
   &emsp;
-  <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
-  </a> 
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white" />
   &emsp;
-  <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black" />
   &emsp;
-  <a> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
-  </a>
+  <img alt="C" src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white" />
   &emsp;
-   <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
+  <img alt="C++" src="https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white" />
   &emsp;
-  <a>
-    <img alt="Serveless" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
-  </a>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white" />
   &emsp;
-  <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
-  </a>
-  &emsp; 
-  <a> 
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
-  </a> 
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white" />
   &emsp;
-  <a> 
-    <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
-  </a> 
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-yellow?logo=firebase&logoColor=white" />
   &emsp;
-  <a> 
-     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
-   </a>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   &emsp;
-  <a> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
-  </a>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white" />
   &emsp;
-   <a>
-    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
-  </a>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 </p>
 
-
-## Connect with me:
+## Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/ashaneranga/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/ashan__eranga/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.upwork.com/freelancers/~0144e0fb7a2eb0fb10?mp_source=share" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
-      alt="Viral Bhadeshiya" height="30" width="auto" /></a>
+  <a href="https://www.linkedin.com/in/ashaneranga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/ashan__eranga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  <a href="https://www.upwork.com/freelancers/~0144e0fb7a2eb0fb10?mp_source=share" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg" height="30" width="auto" /></a>
 </p>
 
 -----
+
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ashan2k02&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ashan2k02&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
- </p>
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=ashan2k02&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashan2k02&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashan2k02&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
