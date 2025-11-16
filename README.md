@@ -71,7 +71,7 @@
   <a href="https://www.linkedin.com/in/ashaneranga/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/ashan_eranga/" target="blank"><img align="center"
+  <a href="https://www.instagram.com/ashan__eranga/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
   <a href="https://www.upwork.com/freelancers/~0144e0fb7a2eb0fb10?mp_source=share" target="blank"><img align="center"
