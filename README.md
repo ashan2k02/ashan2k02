@@ -7,6 +7,11 @@
 ## My Tech Stack
 
 <p align="left"> 
+  <p align="center">
+    <a href="https://ashaneranga.me">
+      <img src="https://img.shields.io/badge/✨%20Check%20Out%20My%20Portfolio-Live%20Now-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    </a>
+  </p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white" />
   &emsp;
   <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white" />
