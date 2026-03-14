@@ -1,5 +1,11 @@
 # Hi there 👋
 
+<p align="center">
+    <a href="https://ashaneranga.me">
+      <img src="https://img.shields.io/badge/✨%20Check%20Out%20My%20Portfolio-Live%20Now-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    </a>
+  </p>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1000&pause=2000&center=true&vCenter=true&multiline=true&width=700&height=200&lines=Hello+there!;I+am+Ashan+Eranga;Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" /></p>
@@ -7,11 +13,7 @@
 ## My Tech Stack
 
 <p align="left"> 
-  <p align="center">
-    <a href="https://ashaneranga.me">
-      <img src="https://img.shields.io/badge/✨%20Check%20Out%20My%20Portfolio-Live%20Now-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-    </a>
-  </p>
+  
   <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white" />
   &emsp;
   <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white" />
